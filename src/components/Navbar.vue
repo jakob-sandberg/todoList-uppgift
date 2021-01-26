@@ -19,7 +19,7 @@ export default {
  }
 
 a {
-  color: navy;
+  color: black;
   font-size: 1.5rem;
   text-decoration: none;
   margin: 0 1rem;

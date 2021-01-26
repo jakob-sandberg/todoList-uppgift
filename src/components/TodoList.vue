@@ -15,7 +15,6 @@ export default {
 
 <style scooped>
   .todo-list {
-  cursor: pointer;
   border: 2px solid black;
   border-radius: 10px;
   display: flex;
