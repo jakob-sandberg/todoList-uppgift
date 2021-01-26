@@ -20,9 +20,10 @@ export default {
 
 <style scooped>
   .AddTodo {
+    width: 30rem;
     border: 2px solid black;
     border-radius: 10px;
-    margin: 1rem 1rem;
+    margin: 5rem auto auto;
     padding: 2rem;
     display: flex;
   }

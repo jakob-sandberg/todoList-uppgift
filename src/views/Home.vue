@@ -1,16 +1,16 @@
 <template>
   <div class="home">
-    <h1>start</h1>
-    <TodoItem />
+    <h1>Todo list</h1>
+    <TodoList />
   </div>
 </template>
 
 <script>
-import TodoItem from "../components/TodoItem"
+import TodoList from "../components/TodoList"
 
 export default {
   components: {
-    TodoItem,
+    TodoList,
   }
   
   
