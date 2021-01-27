@@ -2,7 +2,7 @@
   <div class="navbar">
     <router-link to="/">Home</router-link>
     <router-link to="/about">About</router-link>
-    <router-link to="/AddTodo">Add Todo</router-link>
+    <router-link to="/AddTodoPage">Add Todo</router-link>
   </div>
 </template>
 

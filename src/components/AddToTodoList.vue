@@ -40,6 +40,8 @@ export default {
         todoItem: this.todoItem
       }
       console.log(newTodoItem);
+      
+      this.$emit("add-todo", newTodoItem)
     }
   }
 

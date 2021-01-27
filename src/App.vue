@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Navbar />
+    
     <router-view/>
   </div>
 </template>
@@ -24,6 +25,6 @@ export default {
   }
 
   body {
-    background: darkolivegreen;
+    background: silver;
   }
 </style>
